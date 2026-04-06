@@ -77,7 +77,7 @@ I also have hands-on exposure to **API testing and Selenium automation**.
 
 ## 📄 Resume
 
-👉 [Download Resume](./Jayesh_Resume.pdf)
+👉 [Download Resume](https://drive.google.com/file/d/1UW9gf4etMAnQDiWapcCLZk7A14fGL5Nn/view?usp=drive_link)
 
 ---
 
